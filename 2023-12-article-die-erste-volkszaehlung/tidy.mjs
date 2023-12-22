@@ -2,9 +2,9 @@ import * as aq from "arquero";
 import fs from "node:fs/promises";
 
 async function make1() {
-  const dt = (await aq.loadCSV("./in/suessmilch.tsv", { delimiter: "\t" }))
-    .fold(aq.not("Todesursache"))
-    .rename({ key: "Altersgruppe" });
+  const dt = (
+    await aq.loadCSV("./in/suessmilch.tsv", { delimiter: "\t" })
+  ).fold(aq.not("Todesursache"), { as: ["Altersgruppe", "value"] });
 
   dt.print();
 
@@ -14,9 +14,10 @@ async function make1() {
 }
 
 async function make2() {
-  const dt = (await aq.loadCSV("./in/euler.tsv", { delimiter: "\t" }))
-    .fold(aq.not("Jahr"))
-    .rename({ key: "Kategorie" });
+  const dt = (await aq.loadCSV("./in/euler.tsv", { delimiter: "\t" })).fold(
+    aq.not("Jahr"),
+    { as: ["Kategorie", "value"] }
+  );
 
   dt.print();
 
@@ -27,8 +28,7 @@ async function make2() {
 
 async function make3() {
   const dt = (await aq.loadCSV("./in/clubofrome.tsv", { delimiter: "\t" }))
-    .fold(aq.not("Jahr"))
-    .rename({ key: "Kategorie" })
+    .fold(aq.not("Jahr"), { as: ["Kategorie", "value"] })
     .derive({
       value: (d) => aq.op.parse_float(aq.op.replace(d.value, /,/, ".")),
     });
