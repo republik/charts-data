@@ -1,0 +1,11 @@
+{
+  "name": "charts-data",
+  "version": "1.0.0",
+  "description": "Data wrangling scripts for article charts",
+  "keywords": [],
+  "author": "Jeremy Stucki <jeremy.stucki@republik.ch>",
+  "license": "ISC",
+  "dependencies": {
+    "arquero": "^5.3.0"
+  }
+}

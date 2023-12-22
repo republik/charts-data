@@ -1,0 +1,605 @@
+Jahr,Kategorie,value
+0,Geburten,0
+0,Todesfälle,0
+0,Lebende,2
+0,Alle Menschen,2
+2,Geburten,2
+2,Todesfälle,0
+2,Lebende,4
+2,Alle Menschen,4
+4,Geburten,2
+4,Todesfälle,0
+4,Lebende,6
+4,Alle Menschen,6
+6,Geburten,2
+6,Todesfälle,0
+6,Lebende,8
+6,Alle Menschen,8
+8,Geburten,0
+8,Todesfälle,0
+8,Lebende,8
+8,Alle Menschen,8
+10,Geburten,0
+10,Todesfälle,0
+10,Lebende,8
+10,Alle Menschen,8
+12,Geburten,0
+12,Todesfälle,0
+12,Lebende,8
+12,Alle Menschen,8
+14,Geburten,0
+14,Todesfälle,0
+14,Lebende,8
+14,Alle Menschen,8
+16,Geburten,0
+16,Todesfälle,0
+16,Lebende,8
+16,Alle Menschen,8
+18,Geburten,0
+18,Todesfälle,0
+18,Lebende,8
+18,Alle Menschen,8
+20,Geburten,0
+20,Todesfälle,2
+20,Lebende,6
+20,Alle Menschen,8
+22,Geburten,0
+22,Todesfälle,2
+22,Lebende,6
+22,Alle Menschen,8
+24,Geburten,2
+24,Todesfälle,2
+24,Lebende,8
+24,Alle Menschen,10
+26,Geburten,4
+26,Todesfälle,2
+26,Lebende,12
+26,Alle Menschen,14
+28,Geburten,6
+28,Todesfälle,2
+28,Lebende,18
+28,Alle Menschen,20
+30,Geburten,4
+30,Todesfälle,2
+30,Lebende,22
+30,Alle Menschen,24
+32,Geburten,2
+32,Todesfälle,2
+32,Lebende,24
+32,Alle Menschen,26
+34,Geburten,0
+34,Todesfälle,2
+34,Lebende,24
+34,Alle Menschen,26
+36,Geburten,0
+36,Todesfälle,2
+36,Lebende,24
+36,Alle Menschen,26
+38,Geburten,0
+38,Todesfälle,2
+38,Lebende,24
+38,Alle Menschen,26
+40,Geburten,0
+40,Todesfälle,2
+40,Lebende,24
+40,Alle Menschen,26
+42,Geburten,0
+42,Todesfälle,4
+42,Lebende,22
+42,Alle Menschen,26
+44,Geburten,0
+44,Todesfälle,6
+44,Lebende,20
+44,Alle Menschen,26
+46,Geburten,2
+46,Todesfälle,8
+46,Lebende,20
+46,Alle Menschen,28
+48,Geburten,6
+48,Todesfälle,8
+48,Lebende,26
+48,Alle Menschen,34
+50,Geburten,12
+50,Todesfälle,8
+50,Lebende,38
+50,Alle Menschen,46
+52,Geburten,14
+52,Todesfälle,8
+52,Lebende,52
+52,Alle Menschen,60
+54,Geburten,12
+54,Todesfälle,8
+54,Lebende,64
+54,Alle Menschen,72
+56,Geburten,6
+56,Todesfälle,8
+56,Lebende,70
+56,Alle Menschen,78
+58,Geburten,2
+58,Todesfälle,8
+58,Lebende,72
+58,Alle Menschen,80
+60,Geburten,0
+60,Todesfälle,8
+60,Lebende,72
+60,Alle Menschen,80
+62,Geburten,0
+62,Todesfälle,8
+62,Lebende,72
+62,Alle Menschen,80
+64,Geburten,0
+64,Todesfälle,10
+64,Lebende,70
+64,Alle Menschen,80
+66,Geburten,0
+66,Todesfälle,14
+66,Lebende,66
+66,Alle Menschen,80
+68,Geburten,2
+68,Todesfälle,20
+68,Lebende,62
+68,Alle Menschen,82
+70,Geburten,8
+70,Todesfälle,24
+70,Lebende,66
+70,Alle Menschen,90
+72,Geburten,20
+72,Todesfälle,26
+72,Lebende,84
+72,Alle Menschen,110
+74,Geburten,32
+74,Todesfälle,26
+74,Lebende,116
+74,Alle Menschen,142
+76,Geburten,38
+76,Todesfälle,26
+76,Lebende,154
+76,Alle Menschen,180
+78,Geburten,32
+78,Todesfälle,26
+78,Lebende,186
+78,Alle Menschen,212
+80,Geburten,20
+80,Todesfälle,26
+80,Lebende,206
+80,Alle Menschen,232
+82,Geburten,8
+82,Todesfälle,26
+82,Lebende,214
+82,Alle Menschen,240
+84,Geburten,2
+84,Todesfälle,26
+84,Lebende,216
+84,Alle Menschen,242
+86,Geburten,0
+86,Todesfälle,28
+86,Lebende,214
+86,Alle Menschen,242
+88,Geburten,0
+88,Todesfälle,34
+88,Lebende,208
+88,Alle Menschen,242
+90,Geburten,2
+90,Todesfälle,46
+90,Lebende,198
+90,Alle Menschen,244
+92,Geburten,10
+92,Todesfälle,60
+92,Lebende,194
+92,Alle Menschen,254
+94,Geburten,30
+94,Todesfälle,72
+94,Lebende,212
+94,Alle Menschen,284
+96,Geburten,60
+96,Todesfälle,78
+96,Lebende,266
+96,Alle Menschen,344
+98,Geburten,90
+98,Todesfälle,80
+98,Lebende,354
+98,Alle Menschen,434
+100,Geburten,102
+100,Todesfälle,80
+100,Lebende,456
+100,Alle Menschen,536
+102,Geburten,90
+102,Todesfälle,80
+102,Lebende,546
+102,Alle Menschen,626
+104,Geburten,60
+104,Todesfälle,80
+104,Lebende,606
+104,Alle Menschen,686
+106,Geburten,30
+106,Todesfälle,80
+106,Lebende,636
+106,Alle Menschen,716
+108,Geburten,10
+108,Todesfälle,82
+108,Lebende,644
+108,Alle Menschen,726
+110,Geburten,2
+110,Todesfälle,90
+110,Lebende,638
+110,Alle Menschen,728
+112,Geburten,2
+112,Todesfälle,110
+112,Lebende,620
+112,Alle Menschen,730
+114,Geburten,12
+114,Todesfälle,142
+114,Lebende,600
+114,Alle Menschen,742
+116,Geburten,42
+116,Todesfälle,180
+116,Lebende,604
+116,Alle Menschen,784
+118,Geburten,100
+118,Todesfälle,212
+118,Lebende,672
+118,Alle Menschen,884
+120,Geburten,180
+120,Todesfälle,232
+120,Lebende,832
+120,Alle Menschen,1064
+122,Geburten,252
+122,Todesfälle,240
+122,Lebende,1076
+122,Alle Menschen,1316
+124,Geburten,282
+124,Todesfälle,242
+124,Lebende,1356
+124,Alle Menschen,1598
+126,Geburten,252
+126,Todesfälle,242
+126,Lebende,1608
+126,Alle Menschen,1850
+128,Geburten,180
+128,Todesfälle,242
+128,Lebende,1788
+128,Alle Menschen,2030
+130,Geburten,100
+130,Todesfälle,244
+130,Lebende,1886
+130,Alle Menschen,2130
+132,Geburten,42
+132,Todesfälle,254
+132,Lebende,1918
+132,Alle Menschen,2172
+134,Geburten,14
+134,Todesfälle,284
+134,Lebende,1902
+134,Alle Menschen,2186
+136,Geburten,16
+136,Todesfälle,344
+136,Lebende,1858
+136,Alle Menschen,2202
+138,Geburten,56
+138,Todesfälle,434
+138,Lebende,1824
+138,Alle Menschen,2258
+140,Geburten,154
+140,Todesfälle,536
+140,Lebende,1876
+140,Alle Menschen,2412
+142,Geburten,322
+142,Todesfälle,626
+142,Lebende,2108
+142,Alle Menschen,2734
+144,Geburten,532
+144,Todesfälle,686
+144,Lebende,2580
+144,Alle Menschen,3266
+146,Geburten,714
+146,Todesfälle,716
+146,Lebende,3264
+146,Alle Menschen,3980
+148,Geburten,786
+148,Todesfälle,726
+148,Lebende,4040
+148,Alle Menschen,4766
+150,Geburten,714
+150,Todesfälle,728
+150,Lebende,4752
+150,Alle Menschen,5480
+152,Geburten,532
+152,Todesfälle,730
+152,Lebende,5282
+152,Alle Menschen,6012
+154,Geburten,322
+154,Todesfälle,742
+154,Lebende,5592
+154,Alle Menschen,6334
+156,Geburten,156
+156,Todesfälle,784
+156,Lebende,5706
+156,Alle Menschen,6490
+158,Geburten,72
+158,Todesfälle,884
+158,Lebende,5678
+158,Alle Menschen,6562
+160,Geburten,86
+160,Todesfälle,1064
+160,Lebende,5584
+160,Alle Menschen,6648
+162,Geburten,226
+162,Todesfälle,1316
+162,Lebende,5558
+162,Alle Menschen,6874
+164,Geburten,532
+164,Todesfälle,1598
+164,Lebende,5808
+164,Alle Menschen,7406
+166,Geburten,1008
+166,Todesfälle,1850
+166,Lebende,6564
+166,Alle Menschen,8414
+168,Geburten,1568
+168,Todesfälle,2030
+168,Lebende,7952
+168,Alle Menschen,9982
+170,Geburten,2032
+170,Todesfälle,2130
+170,Lebende,9884
+170,Alle Menschen,12014
+172,Geburten,2214
+172,Todesfälle,2172
+172,Lebende,12056
+172,Alle Menschen,14228
+174,Geburten,2032
+174,Todesfälle,2186
+174,Lebende,14074
+174,Alle Menschen,16260
+176,Geburten,1568
+176,Todesfälle,2202
+176,Lebende,15626
+176,Alle Menschen,17828
+178,Geburten,1010
+178,Todesfälle,2258
+178,Lebende,16580
+178,Alle Menschen,18838
+180,Geburten,550
+180,Todesfälle,2412
+180,Lebende,16976
+180,Alle Menschen,19388
+182,Geburten,314
+182,Todesfälle,2734
+182,Lebende,16968
+182,Alle Menschen,19702
+184,Geburten,384
+184,Todesfälle,3266
+184,Lebende,16820
+184,Alle Menschen,20086
+186,Geburten,844
+186,Todesfälle,3980
+186,Lebende,16950
+186,Alle Menschen,20930
+188,Geburten,1766
+188,Todesfälle,4766
+188,Lebende,17930
+188,Alle Menschen,22696
+190,Geburten,3108
+190,Todesfälle,5480
+190,Lebende,20324
+190,Alle Menschen,25804
+192,Geburten,4608
+192,Todesfälle,6012
+192,Lebende,24400
+192,Alle Menschen,30412
+194,Geburten,5814
+194,Todesfälle,6334
+194,Lebende,29892
+194,Alle Menschen,36226
+196,Geburten,6278
+196,Todesfälle,6490
+196,Lebende,36014
+196,Alle Menschen,42504
+198,Geburten,5814
+198,Todesfälle,6562
+198,Lebende,41756
+198,Alle Menschen,48318
+200,Geburten,4610
+200,Todesfälle,6648
+200,Lebende,46280
+200,Alle Menschen,52928
+202,Geburten,3128
+202,Todesfälle,6874
+202,Lebende,49182
+202,Alle Menschen,56056
+204,Geburten,1874
+204,Todesfälle,7406
+204,Lebende,50524
+204,Alle Menschen,57930
+206,Geburten,1248
+206,Todesfälle,8414
+206,Lebende,50764
+206,Alle Menschen,59178
+208,Geburten,1542
+208,Todesfälle,9982
+208,Lebende,50738
+208,Alle Menschen,60720
+210,Geburten,2994
+210,Todesfälle,12014
+210,Lebende,51700
+210,Alle Menschen,63714
+212,Geburten,5718
+212,Todesfälle,14228
+212,Lebende,55204
+212,Alle Menschen,69432
+214,Geburten,9482
+214,Todesfälle,16260
+214,Lebende,62654
+214,Alle Menschen,78914
+216,Geburten,13530
+216,Todesfälle,17828
+216,Lebende,74616
+216,Alle Menschen,92444
+218,Geburten,16690
+218,Todesfälle,18838
+218,Lebende,90296
+218,Alle Menschen,109134
+220,Geburten,17906
+220,Todesfälle,19388
+220,Lebende,107652
+220,Alle Menschen,127040
+222,Geburten,16702
+222,Todesfälle,19720
+222,Lebende,124022
+222,Alle Menschen,143742
+224,Geburten,13552
+224,Todesfälle,20086
+224,Lebende,137208
+224,Alle Menschen,157294
+226,Geburten,9612
+226,Todesfälle,20930
+226,Lebende,145976
+226,Alle Menschen,166906
+228,Geburten,6250
+228,Todesfälle,22696
+228,Lebende,150460
+228,Alle Menschen,173156
+230,Geburten,4664
+230,Todesfälle,25804
+230,Lebende,152016
+230,Alle Menschen,177820
+232,Geburten,5784
+232,Todesfälle,30412
+232,Lebende,153192
+232,Alle Menschen,183604
+234,Geburten,10254
+234,Todesfälle,36226
+234,Lebende,157632
+234,Alle Menschen,193858
+236,Geburten,18194
+236,Todesfälle,42504
+236,Lebende,169548
+236,Alle Menschen,212052
+238,Geburten,28730
+238,Todesfälle,48318
+238,Lebende,192464
+238,Alle Menschen,240782
+240,Geburten,39702
+240,Todesfälle,52928
+240,Lebende,227556
+240,Alle Menschen,280484
+242,Geburten,48126
+242,Todesfälle,56056
+242,Lebende,272554
+242,Alle Menschen,328610
+244,Geburten,51298
+244,Todesfälle,57930
+244,Lebende,321978
+244,Alle Menschen,379908
+246,Geburten,48160
+246,Todesfälle,59178
+246,Lebende,368890
+246,Alle Menschen,428068
+248,Geburten,39866
+248,Todesfälle,60720
+248,Lebende,407214
+248,Alle Menschen,467934
+250,Geburten,29414
+250,Todesfälle,63714
+250,Lebende,433634
+250,Alle Menschen,497348
+252,Geburten,20526
+252,Todesfälle,69432
+252,Lebende,448442
+252,Alle Menschen,517874
+254,Geburten,16698
+254,Todesfälle,78914
+254,Lebende,455658
+254,Alle Menschen,534572
+256,Geburten,20702
+256,Todesfälle,92444
+256,Lebende,462830
+256,Alle Menschen,555274
+258,Geburten,34232
+258,Todesfälle,109134
+258,Lebende,480372
+258,Alle Menschen,589506
+260,Geburten,57178
+260,Todesfälle,127040
+260,Lebende,519644
+260,Alle Menschen,646684
+262,Geburten,86626
+262,Todesfälle,143742
+262,Lebende,589568
+262,Alle Menschen,733310
+264,Geburten,116558
+264,Todesfälle,157294
+264,Lebende,692574
+264,Alle Menschen,849868
+266,Geburten,139126
+266,Todesfälle,166906
+266,Lebende,822088
+266,Alle Menschen,988994
+268,Geburten,147584
+268,Todesfälle,173156
+268,Lebende,963422
+268,Alle Menschen,1136578
+270,Geburten,139324
+270,Todesfälle,177820
+270,Lebende,1098082
+270,Alle Menschen,1275902
+272,Geburten,117440
+272,Todesfälle,183604
+272,Lebende,1209738
+272,Alle Menschen,1393342
+274,Geburten,89806
+274,Todesfälle,193858
+274,Lebende,1289290
+274,Alle Menschen,1483148
+276,Geburten,66638
+276,Todesfälle,212052
+276,Lebende,1337734
+276,Alle Menschen,1549786
+278,Geburten,57926
+278,Todesfälle,240782
+278,Lebende,1366930
+278,Alle Menschen,1607712
+280,Geburten,71632
+280,Todesfälle,280484
+280,Lebende,1398860
+280,Alle Menschen,1679344
+282,Geburten,112112
+282,Todesfälle,328610
+282,Lebende,1462846
+282,Alle Menschen,1791456
+284,Geburten,178036
+284,Todesfälle,379908
+284,Lebende,1589584
+284,Alle Menschen,1969492
+286,Geburten,260362
+286,Todesfälle,428068
+286,Lebende,1801786
+286,Alle Menschen,2229854
+288,Geburten,342310
+288,Todesfälle,467934
+288,Lebende,2104230
+288,Alle Menschen,2572164
+290,Geburten,403268
+290,Todesfälle,497348
+290,Lebende,2478084
+290,Alle Menschen,2975432
+292,Geburten,426034
+292,Todesfälle,517874
+292,Lebende,2883592
+292,Alle Menschen,3401466
+294,Geburten,404348
+294,Todesfälle,534572
+294,Lebende,3271242
+294,Alle Menschen,3805814
+296,Geburten,346570
+296,Todesfälle,555274
+296,Lebende,3597110
+296,Alle Menschen,4152384
+298,Geburten,273884
+298,Todesfälle,589506
+298,Lebende,3836762
+298,Alle Menschen,4426268
+300,Geburten,214370
+300,Todesfälle,646684
+300,Lebende,3993954
+300,Alle Menschen,4640638
