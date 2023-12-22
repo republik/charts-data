@@ -13,3 +13,4 @@ Inside each folder we use this structure (or something else that makes sense):
 - `in/`: un-transformed source files go here
 - `out/`: transformed files go here (usually generated)
 - `tidy.mjs`: the script which transforms data from `in/` to `out/`
+- `README.md`: anything useful (Publikator URL, source data, instructions, ...)
